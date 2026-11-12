@@ -1,3 +1,7 @@
+# ==============================
+# ConfigMap: variables NO sensibles de la aplicación
+# (host de la base de datos, nombre de la base y puerto)
+# ==============================
 apiVersion: v1
 kind: ConfigMap
 metadata:

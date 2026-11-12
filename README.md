@@ -94,5 +94,5 @@ Navegador --> NodePort (30080) --> backend-service --> backend-deployment
 
 ## Autor
 
-Nombre: **TU NOMBRE COMPLETO**
+Nombre: Lizeth Yasuri Quispe Suarez
 Curso: Orquestación y Automatización de Software
